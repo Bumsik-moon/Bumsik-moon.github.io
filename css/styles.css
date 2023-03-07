@@ -11412,8 +11412,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../img/bus.jpg");
-  background-color: #919191;
+  background-image: url("../img/main.jpg");
+  background-color: white;
   width : 100%;
   height : auto;
   background-repeat: no-repeat;
@@ -11439,7 +11439,7 @@ header.masthead .masthead-heading {
   header.masthead {
     padding-top: 17rem;
     padding-bottom: 12.5rem;
-    background-image: url("../img/bus1.jpg");
+    background-image: url("../img/main1.jpg");
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
@@ -11459,7 +11459,7 @@ header.masthead .masthead-heading {
   header.masthead {
     padding-top: 17rem;
     padding-bottom: 12.5rem;
-    background-image: url("../img/bus2.jpg");
+    background-image: url("../img/main2.jpg");
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
@@ -11479,7 +11479,7 @@ header.masthead .masthead-heading {
   header.masthead {
     padding-top: 17rem;
     padding-bottom: 12.5rem;
-    background-image: url("../img/bus.jpg");
+    background-image: url("../img/main.jpg");
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
